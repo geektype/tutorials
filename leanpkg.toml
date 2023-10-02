@@ -5,4 +5,4 @@ lean_version = "geektype/lean-apple:stable"
 path = "src/solutions"
 
 [dependencies]
-mathlib = {git = "geektype/mathlib"}
+mathlib = {git = "geektype/mathlib", rev = "d4f69d96f3532729da8ebb763f4bc26fcf640f06"}
